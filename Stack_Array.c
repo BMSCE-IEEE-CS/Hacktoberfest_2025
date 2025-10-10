@@ -1,9 +1,3 @@
-/*EXPERIMENT : 06
-Name : Shrusti Moon
-Roll no : UEC2024145
-
-Expt 6 : Develop  a program to model an array as stack.
-*/
 
 #include<stdio.h>
 #define MAX 10
@@ -156,5 +150,6 @@ STACK MENU :
 Enter your choice: 3
 Exiting program...
 */
+
 
  
